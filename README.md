@@ -1,5 +1,5 @@
 # AI_python
-machinlearning & deeplearning(by python)
+machine learning & deep learning(by python)
 
 해당 저장소는 sklearn, tensorflow, pytorch로 구현하고, 코랩을 이용해 실행된 코드들을 모아둔 것이다<br/>
 또한 공모전 활동 중 사용한 코드들도 포함되어 있다<br/>
